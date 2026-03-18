@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "雨とカプチーノ",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-06T05:31:17.569324Z",
+  "createdAt": "2026-03-18T18:47:06.418735Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_雨とカプチーノ_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_雨とカプチーノ_ヨルシカ.lrc",
+      "repo_name": "PWbRleMGagU"
     }
   ]
 }
